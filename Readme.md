@@ -1,15 +1,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/c8feb585b6b277f9242c6.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝗖𝗛𝗔𝗟𝗖𝗢𝗚𝗘𝗡+𝐗𝐃+🖤+🥀"></b></h3>
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/c8feb585b6b277f9242c6.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐔ɴᴋɴᴏᴡɴ 𝟽+𝐗𝐃+🖤+🥀"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/CHALCOGEN645/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/L2LUCKY/count.svg" />
 </p>
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋+𝗣𝗘𝗡𝗚𝗨𝗜𝗡+𝐌𝐔𝐒𝐈𝐂+𝐁𝐎𝐓🖤+🥀"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=✨+🦋+𝐔ɴᴋɴᴏᴡɴ 𝟽+𝐌𝐔𝐒𝐈𝐂+𝐁𝐎𝐓🖤+🥀"></b></h1>
 
-<p align="center"><a href="https://t.me/CHALCOGENXD"><img src="https://telegra.ph/file/9b216a63b96955753dca6.jpg" width="600"></a></p>
+<p align="center"><a href="https://t.me/UNKNOWN07_000"><img src="https://telegra.ph/file/9b216a63b96955753dca6.jpg" width="600"></a></p>
 
-<h3> <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+💗+𝓣𝓗𝓘𝓢+𝓘𝓢+𝓣𝓗𝓔+𝓜𝓞𝓢𝓣+𝓐𝓓𝓥𝓐𝓝𝓒𝓔+𝓜𝓤𝓢𝓘𝓒;𝓜𝓐𝓝𝓐𝓖𝓔𝓜𝓔𝓜𝓔𝓝𝓣+𝓡𝓞𝓑𝓞𝓣+🔥+🥀;𝓑𝓨+𝗖𝗛𝗔𝗟𝗖𝗢𝗚𝗘𝗡𝗫𝗗+✨+🦋+💗+"></b></h3> 
+<h3> <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+💗+𝓣𝓗𝓘𝓢+𝓘𝓢+𝓣𝓗𝓔+𝓜𝓞𝓢𝓣+𝓐𝓓𝓥𝓐𝓝𝓒𝓔+𝓜𝓤𝓢𝓘𝓒;𝓜𝓐𝓝𝓐𝓖𝓔𝓜𝓔𝓜𝓔𝓝𝓣+𝓡𝓞𝓑𝓞𝓣+🔥+🥀;𝓑𝓨+𝐔ɴᴋɴᴏᴡɴ 𝟽+✨+🦋+💗+"></b></h3> 
 
 
 <h2 align="center">  
@@ -26,7 +26,7 @@
 <details>
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/CHALCOGEN645/PENGUIN-x-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/L2LUCKY/UNKNOWN7-MUSIC> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </details>
 
 
@@ -39,7 +39,7 @@
 
  `` ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─`` 
 
-- Get your [Necessary Variables](https://github.com/CHALCOGEN645/PENGUIN-x-MUSIC/blob/Master/sample.env)
+- Get your [Necessary Variables](https://github.com/L2LUCKY/UNKNOWN7-MUSIC/blob/Master/sample.env)
 - Upgrade and Update by :
  `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -51,7 +51,7 @@
 - Install Node js by :
  `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
- `git clone https://github.com/CHALCOGEN645/PENGUIN-x-MUSIC && cd PENGUIN-x-MUSIC`
+ `git clone https://github.com/L2LUCKY/UNKNOWN7-MUSIC && cd UNKNOWN7-MUSIC`
 - Install requirements by :
  `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -70,11 +70,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
     </details>
 
 # 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 💗🥀
-<a href="https://t.me/CHALCOGENXD"><img title="Telegram" src="https://img.shields.io/badge/CHALCOGENXD-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://t.me/CLXGN"><img title="Telegram" src="https://img.shields.io/badge/CHALCOGENXD-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://instagram.com/CHALCOGEN645"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://t.me/PENGUIN_X_STORE"><img title="Support" src="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://t.me/+UFYcQJKqRLA2MWVk"><img title="Support" src="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/UNKNOWN07_000"><img title="Telegram" src="https://img.shields.io/badge/UNKNOWN07_000-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/The_LuckyX"><img title="Telegram" src="https://img.shields.io/badge/UNKNOWN07_000-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://instagram.com/itz_lucky_comment"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://t.me/LuckyXUpdate"><img title="Support" src="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/LuckyXSupport"><img title="Support" src="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
