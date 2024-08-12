@@ -16,14 +16,14 @@ OWNER_USERNAME = getenv("OWNER_USERNAME", "UNKNOWN07_000")
 BOT_USERNAME = getenv("BOT_USERNAME", "")
 BOT_NAME = getenv("BOT_NAME", "˹")
 ASSUSERNAME = getenv("ASSUSERNAME", "")
-EVALOP = list(map(int, getenv("EVALOP", "6797202080").split()))
+EVALOP = list(map(int, getenv("EVALOP", "5247304559").split()))
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOGGER_ID = int(getenv("LOGGER_ID", ))
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # External APIs - Get these from their respective providers
 GPT_API = getenv("GPT_API")
 DEEP_API = getenv("DEEP_API")
-OWNER_ID = int(getenv("OWNER_ID", ))
+OWNER_ID = int(getenv("OWNER_ID", 7189651838))
 
 # Heroku deployment settings - Refer to Heroku documentation on how to obtain these
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
