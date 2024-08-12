@@ -7,7 +7,7 @@ from ANNIEMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "PENGUIN_X_STORE"
+MUST_JOIN = "LuckyXUpdate"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
