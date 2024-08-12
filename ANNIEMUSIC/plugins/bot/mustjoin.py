@@ -1,4 +1,5 @@
 
+
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from pyrogram.errors import ChatAdminRequired, UserNotParticipant, ChatWriteForbidden
@@ -6,7 +7,7 @@ from ANNIEMUSIC import app
 
 #--------------------------
 
-MUST_JOIN = "pengiun_x_store"
+MUST_JOIN = "PENGUIN_X_STORE"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
