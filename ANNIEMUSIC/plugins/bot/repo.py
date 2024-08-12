@@ -31,13 +31,13 @@ async def start(_, msg):
             ],
      
             [
-             InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/CHALCOGENXD"),
-             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/PENGUIN_X_STORE"),
+             InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/UNKNOWN07_000"),
+             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/LuckyXUpdate"),
              ],
      
              [
-             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ", url="https://t.me/+UFYcQJKqRLA2MWVk"),          
-             InlineKeyboardButton("︎ᴍᴜsɪᴄ", url=f"https://github.com/CHALCOGEN645/PENGUIN-X-MUSIC"),
+             InlineKeyboardButton("Devloper", url="https://t.me/The_LuckyX"),          
+             InlineKeyboardButton("︎ᴍᴜsɪᴄ", url=f"https://github.com/L2LUCKY/UNKNOWN7-MUSIC"),
              ],
      
               ]
